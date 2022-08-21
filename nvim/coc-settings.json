@@ -1,0 +1,13 @@
+{
+  "suggest.noselect": false,
+  "diagnostic.errorSign": "•",
+  "diagnostic.warningSign": "•",
+  "diagnostic.infoSign": "•",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "typescript",
+    "json",
+    "html",
+    "css"
+  ]
+}
