@@ -2,7 +2,7 @@
 call plug#begin('~/AppData/Local/nvim/autoload/plugged')
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'haishanh/night-owl.vim'
+Plug 'dracula/vim'
 Plug 'preservim/nerdtree'
 Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'ryanoasis/vim-devicons'
@@ -11,7 +11,7 @@ Plug 'ryanoasis/vim-devicons'
 call plug#end()
 
 syntax enable
-colorscheme night-owl
+colorscheme dracula
 
 set number
 set noshowcmd
